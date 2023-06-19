@@ -6,5 +6,7 @@ public class TesteIntegracaoGitHub {
 		/* Teste GITHUB */
 		System.out.println("Teste");
 		System.out.println("Primeira alteração");
+
+		System.out.println("Segunda alteração");
 	}
 }
